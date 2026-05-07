@@ -15,10 +15,13 @@ agent_created: true
 本 skill 設計為可攜式，供多個 agent/助理在不同電腦上共用：
 
 - **主要存放位置**: `~/.workbuddy/skills/research-sync/`（WorkBuddy 自動載入）
-- **雲端副本**: WPS 雲端 `研究/skills/research-sync/SKILL.md`（供其他電腦的 agent 讀取安裝）
+- **GitHub（跨電腦/跨平台共用）**: https://github.com/d8911801/workbuddy-skills — Mac 或其他電腦的 agent 可直接從此 repo 下載安裝
+- **WPS 雲端副本**: `研究/skills/research-sync/SKILL.md`
 - **WorkBuddy 其他視窗**（如 Claw）可直接從 `~/.workbuddy/skills/` 載入
-- **不同電腦的 agent**：從 WPS 雲端讀取 SKILL.md，複製到本地 `~/.workbuddy/skills/research-sync/` 即可使用
-- 安裝指令：將 `SKILL.md` 放入 `~/.workbuddy/skills/research-sync/` 目錄下，WorkBuddy 啟動時會自動偵測
+- **安裝方式**（Mac 或其他電腦）：
+  1. 從 GitHub 下載：`git clone https://github.com/d8911801/workbuddy-skills.git`
+  2. 將 `research-sync/SKILL.md` 複製到 `~/.workbuddy/skills/research-sync/`
+  3. WorkBuddy 啟動時會自動偵測
 
 ## 核心路徑
 
