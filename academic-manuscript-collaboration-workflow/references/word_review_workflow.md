@@ -13,8 +13,9 @@ Use this reference for `.docx` review drafts, tracked revisions, and comment han
    - append a sentence at the end;
    - add a new paragraph after;
    - make narrow phrase-level fixes.
-6. Save as a new output file.
-7. Add comment replies after body revision, or re-check them if added earlier.
+6. When discussing changes with the user, refer to passages by searchable opening words or exact quoted anchors rather than paragraph numbers.
+7. Save as a new output file.
+8. Add comment replies after body revision, or re-check them if added earlier.
 
 ## Comment Handling Requirements
 

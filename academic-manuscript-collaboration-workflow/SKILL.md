@@ -19,6 +19,8 @@ Use this skill when working with the user on academic books, articles, research 
 
 - Preserve the user's intellectual decisions. If the user has already edited a passage, prefer additive revision: insert before, append after, or make local phrase edits.
 - Avoid deleting the user's revised paragraph and rewriting it wholesale unless the user explicitly asks for a rewrite.
+- When discussing a location in a manuscript, identify it by searchable opening words or a quoted phrase, not by paragraph numbers alone.
+- For long manuscripts, handle one local unit at a time. Do not launch a full-document polish while content is still being drafted or stitched; defer whole-document unification until the user asks for that pass.
 - Separate internal working notes from reader-facing prose. Do not put process language into formal manuscript text.
 - When unsure whether a note is resolved, keep it visible and mark the handling status rather than silently deleting it.
 - Use subagents for separable research tasks such as source lookup, bibliography checks, original-text extraction, and technical workflow validation. The main agent must review and integrate their outputs.

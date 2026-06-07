@@ -19,6 +19,16 @@ When revising an already reviewed passage:
 4. Rewrite only when the existing paragraph cannot support the requested argument.
 5. If rewriting is needed, explain why and preferably provide the replacement in chat first.
 
+## Staged Stitching
+
+When integrating material from older drafts into a newer manuscript:
+
+- First identify reusable material by searchable opening words, not paragraph numbers.
+- Distinguish material that should be fully preserved, material that should be condensed, and material that should remain only as a planning note.
+- Stitch one conceptual block at a time, then inspect the local seam before moving on.
+- If a newly inserted paragraph makes the next paragraph repetitive, shorten the next paragraph rather than deleting the newly approved addition.
+- Do not begin global style unification, heading cleanup, citation normalization, or full-document polishing until the main body content is complete or the user explicitly asks for that pass.
+
 ## Source Evidence
 
 - Quote the relevant source before analysis when wording matters.
