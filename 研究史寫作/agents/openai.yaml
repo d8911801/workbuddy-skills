@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究史寫作"
+  short_description: "起草與修訂學術研究史段落，區分研究史、作者主張與過渡段。"
+  default_prompt: "Use $research-history-writing to draft or revise a concise Chinese-language research-history section for an academic manuscript."

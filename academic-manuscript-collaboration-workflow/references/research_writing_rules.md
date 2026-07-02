@@ -70,6 +70,14 @@ Formal manuscript prose should not mention internal collaboration:
 
 Instead, write the claim directly for readers.
 
+## Working-Marker Cleanup
+
+- Before delivering a manuscript revision, search the complete visible body text for dated patch labels and drafting markers, including forms such as `【YYYY-MM-DD補強｜主題】`, `【待補】`, `TODO`, and revision-round labels.
+- Remove a marker only after checking the prose immediately before and after it. If both sides preserve two versions of the same point, integrate them into one reader-facing passage rather than merely deleting the label.
+- Preserve genuine unresolved issues by moving them into a real Word comment or reporting them as `pending-confirmation`.
+- Do not treat user comments, source-critical brackets, excavated-text lacuna marks, or supplied-slip numbering as workflow markers.
+- Final verification requires zero internal working markers in body text unless the user explicitly requests otherwise.
+
 ## Research History
 
 When adding scholarship:

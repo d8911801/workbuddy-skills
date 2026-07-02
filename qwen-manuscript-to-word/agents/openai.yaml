@@ -1,0 +1,4 @@
+interface:
+  display_name: "千問純文字轉 Word"
+  short_description: "雲端千問只產生純文字稿，後續由本機 diff 與轉檔腳本生成帶真腳注與追蹤修訂的 Word 文件"
+  default_prompt: "Use $qwen-manuscript-to-word. For cloud Qwen revision, require pure-text Markdown output with `[^N]` footnotes preserved and no `<ins>/<del>`. If tracked revisions are requested for an independent section draft, use C:\\Users\\d8911801\\.workbuddy\\skills\\md2docx\\scripts\\diff_to_tracked.py and convert_tracked.py locally; if preserving an existing Word review file is required, coordinate with the document-aware workflow instead."

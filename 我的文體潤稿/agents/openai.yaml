@@ -1,0 +1,4 @@
+interface:
+  display_name: "我的文體潤稿"
+  short_description: "依使用者近年典雅白話文體進行學術潤稿、語氣校準與章內口徑統一。"
+  default_prompt: "Use $我的文體潤稿 to revise this Chinese academic section in the user's current writing style."
