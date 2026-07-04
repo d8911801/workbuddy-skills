@@ -1,0 +1,4 @@
+interface:
+  display_name: "畢業論文答辯提問"
+  short_description: "讀取論文並生成三道答辯問題，含一題 AI 使用核實題。"
+  default_prompt: "Use $畢業論文答辯提問 to read a thesis docx and prepare three oral defense questions, including one AI-verification question."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "期刊摘要與PDF工作流"
+  short_description: "處理期刊Excel、補來源、下載PDF、產出交付包"
+  default_prompt: "Use $期刊摘要與PDF工作流 to process a yearly journal Excel list, supplement source URLs or public PDFs, and prepare a handoff package."
